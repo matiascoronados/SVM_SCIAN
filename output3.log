@@ -1,0 +1,1626 @@
+Epoch 1/100
+loss: 1.931, accuracy: 51.860
+val_loss: 1.491, val_accuracy: 34.756
+
+
+
+Epoch 2/100
+loss: 0.744, accuracy: 72.960
+val_loss: 1.293, val_accuracy: 45.732
+
+
+
+Epoch 3/100
+loss: 0.492, accuracy: 82.720
+val_loss: 1.351, val_accuracy: 50.000
+
+
+
+Epoch 4/100
+loss: 0.365, accuracy: 87.700
+val_loss: 0.930, val_accuracy: 61.585
+
+
+
+Epoch 5/100
+loss: 0.265, accuracy: 91.180
+val_loss: 1.138, val_accuracy: 59.146
+
+
+
+Epoch 6/100
+loss: 0.206, accuracy: 93.440
+val_loss: 1.484, val_accuracy: 55.488
+
+
+
+Epoch 7/100
+loss: 0.203, accuracy: 93.740
+val_loss: 1.010, val_accuracy: 65.854
+
+
+
+Epoch 8/100
+loss: 0.159, accuracy: 94.980
+val_loss: 1.107, val_accuracy: 60.366
+
+
+
+Epoch 9/100
+loss: 0.146, accuracy: 95.420
+val_loss: 1.092, val_accuracy: 61.585
+
+
+
+Epoch 10/100
+loss: 0.145, accuracy: 95.180
+val_loss: 1.316, val_accuracy: 60.366
+
+
+
+Epoch 11/100
+loss: 0.132, accuracy: 96.020
+val_loss: 1.207, val_accuracy: 60.976
+
+
+
+Epoch 12/100
+loss: 0.091, accuracy: 97.180
+val_loss: 1.180, val_accuracy: 62.805
+
+
+
+Epoch 13/100
+loss: 0.100, accuracy: 96.880
+val_loss: 1.424, val_accuracy: 59.146
+
+
+
+Epoch 14/100
+loss: 0.089, accuracy: 97.220
+val_loss: 1.200, val_accuracy: 64.024
+
+
+
+Epoch 15/100
+loss: 0.082, accuracy: 97.540
+val_loss: 1.696, val_accuracy: 54.878
+
+
+
+Epoch 16/100
+loss: 0.100, accuracy: 97.020
+val_loss: 1.449, val_accuracy: 59.756
+
+
+
+Epoch 17/100
+loss: 0.097, accuracy: 97.080
+val_loss: 1.160, val_accuracy: 58.537
+
+
+
+Epoch 18/100
+loss: 0.062, accuracy: 98.100
+val_loss: 1.223, val_accuracy: 57.927
+
+
+
+Epoch 19/100
+loss: 0.070, accuracy: 98.020
+val_loss: 1.539, val_accuracy: 59.146
+
+
+
+Epoch 20/100
+loss: 0.074, accuracy: 97.760
+val_loss: 1.395, val_accuracy: 62.195
+
+
+
+Epoch 21/100
+loss: 0.054, accuracy: 98.580
+val_loss: 1.457, val_accuracy: 62.195
+
+
+
+Epoch 22/100
+loss: 0.042, accuracy: 98.920
+val_loss: 1.365, val_accuracy: 64.634
+
+
+
+Epoch 23/100
+loss: 0.086, accuracy: 97.440
+val_loss: 1.232, val_accuracy: 60.366
+
+
+
+Epoch 24/100
+loss: 0.062, accuracy: 98.020
+val_loss: 1.135, val_accuracy: 61.585
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.22      0.23      0.23        30
+           1       0.60      0.72      0.66        68
+           2       0.44      0.32      0.37        22
+           3       0.29      0.33      0.31        21
+           4       0.71      0.66      0.68       196
+
+    accuracy                           0.59       337
+   macro avg       0.45      0.45      0.45       337
+weighted avg       0.60      0.59      0.59       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment5-data_d1_60_d2_70_r0.9
+Epoch 1/100
+loss: 2.472, accuracy: 26.060
+val_loss: 1.333, val_accuracy: 56.707
+
+
+
+Epoch 2/100
+loss: 1.572, accuracy: 28.860
+val_loss: 1.267, val_accuracy: 55.488
+
+
+
+Epoch 3/100
+loss: 1.537, accuracy: 31.620
+val_loss: 1.193, val_accuracy: 56.098
+
+
+
+Epoch 4/100
+loss: 1.494, accuracy: 34.300
+val_loss: 1.242, val_accuracy: 51.220
+
+
+
+Epoch 5/100
+loss: 1.438, accuracy: 39.440
+val_loss: 1.268, val_accuracy: 46.341
+
+
+
+Epoch 6/100
+loss: 1.368, accuracy: 43.480
+val_loss: 1.086, val_accuracy: 60.976
+
+
+
+Epoch 7/100
+loss: 1.276, accuracy: 48.180
+val_loss: 1.141, val_accuracy: 51.220
+
+
+
+Epoch 8/100
+loss: 1.197, accuracy: 51.140
+val_loss: 1.053, val_accuracy: 60.366
+
+
+
+Epoch 9/100
+loss: 1.099, accuracy: 56.960
+val_loss: 1.037, val_accuracy: 61.585
+
+
+
+Epoch 10/100
+loss: 1.020, accuracy: 61.080
+val_loss: 1.197, val_accuracy: 54.268
+
+
+
+Epoch 11/100
+loss: 0.933, accuracy: 64.080
+val_loss: 1.143, val_accuracy: 54.878
+
+
+
+Epoch 12/100
+loss: 0.839, accuracy: 68.800
+val_loss: 1.026, val_accuracy: 59.146
+
+
+
+Epoch 13/100
+loss: 0.750, accuracy: 72.180
+val_loss: 1.097, val_accuracy: 57.317
+
+
+
+Epoch 14/100
+loss: 0.700, accuracy: 74.820
+val_loss: 1.046, val_accuracy: 60.366
+
+
+
+Epoch 15/100
+loss: 0.642, accuracy: 76.880
+val_loss: 1.107, val_accuracy: 57.317
+
+
+
+Epoch 16/100
+loss: 0.589, accuracy: 78.900
+val_loss: 1.092, val_accuracy: 62.805
+
+
+
+Epoch 17/100
+loss: 0.544, accuracy: 79.980
+val_loss: 1.263, val_accuracy: 46.341
+
+
+
+Epoch 18/100
+loss: 0.522, accuracy: 81.480
+val_loss: 1.067, val_accuracy: 59.756
+
+
+
+Epoch 19/100
+loss: 0.495, accuracy: 82.420
+val_loss: 1.095, val_accuracy: 58.537
+
+
+
+Epoch 20/100
+loss: 0.471, accuracy: 83.040
+val_loss: 1.123, val_accuracy: 64.634
+
+
+
+Epoch 21/100
+loss: 0.420, accuracy: 84.920
+val_loss: 1.142, val_accuracy: 58.537
+
+
+
+Epoch 22/100
+loss: 0.408, accuracy: 85.480
+val_loss: 1.057, val_accuracy: 59.756
+
+
+
+Epoch 23/100
+loss: 0.386, accuracy: 86.940
+val_loss: 1.270, val_accuracy: 57.317
+
+
+
+Epoch 24/100
+loss: 0.377, accuracy: 86.740
+val_loss: 1.362, val_accuracy: 53.659
+
+
+
+Epoch 25/100
+loss: 0.344, accuracy: 87.920
+val_loss: 1.373, val_accuracy: 44.512
+
+
+
+Epoch 26/100
+loss: 0.348, accuracy: 87.900
+val_loss: 1.309, val_accuracy: 55.488
+
+
+
+Epoch 27/100
+loss: 0.344, accuracy: 87.700
+val_loss: 1.255, val_accuracy: 56.707
+
+
+
+Epoch 28/100
+loss: 0.313, accuracy: 88.620
+val_loss: 1.259, val_accuracy: 54.268
+
+
+
+Epoch 29/100
+loss: 0.299, accuracy: 89.460
+val_loss: 1.382, val_accuracy: 57.927
+
+
+
+Epoch 30/100
+loss: 0.304, accuracy: 88.760
+val_loss: 1.134, val_accuracy: 60.976
+
+
+
+Epoch 31/100
+loss: 0.266, accuracy: 91.020
+val_loss: 1.461, val_accuracy: 53.049
+
+
+
+Epoch 32/100
+loss: 0.265, accuracy: 90.520
+val_loss: 1.268, val_accuracy: 56.707
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.42      0.17      0.24        30
+           1       0.60      0.62      0.61        68
+           2       0.43      0.27      0.33        22
+           3       0.50      0.38      0.43        21
+           4       0.68      0.78      0.73       196
+
+    accuracy                           0.64       337
+   macro avg       0.53      0.44      0.47       337
+weighted avg       0.61      0.64      0.62       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment9-data_d1_40_d2_60_r0.2
+Epoch 1/100
+loss: 2.413, accuracy: 27.160
+val_loss: 1.269, val_accuracy: 54.268
+
+
+
+Epoch 2/100
+loss: 1.492, accuracy: 36.140
+val_loss: 1.117, val_accuracy: 58.537
+
+
+
+Epoch 3/100
+loss: 1.343, accuracy: 44.340
+val_loss: 1.098, val_accuracy: 59.756
+
+
+
+Epoch 4/100
+loss: 1.212, accuracy: 50.860
+val_loss: 1.124, val_accuracy: 49.390
+
+
+
+Epoch 5/100
+loss: 1.078, accuracy: 58.000
+val_loss: 1.343, val_accuracy: 39.634
+
+
+
+Epoch 6/100
+loss: 0.936, accuracy: 64.280
+val_loss: 1.093, val_accuracy: 51.220
+
+
+
+Epoch 7/100
+loss: 0.825, accuracy: 69.780
+val_loss: 0.957, val_accuracy: 57.927
+
+
+
+Epoch 8/100
+loss: 0.707, accuracy: 73.900
+val_loss: 1.082, val_accuracy: 57.317
+
+
+
+Epoch 9/100
+loss: 0.596, accuracy: 79.080
+val_loss: 1.071, val_accuracy: 55.488
+
+
+
+Epoch 10/100
+loss: 0.526, accuracy: 81.180
+val_loss: 1.081, val_accuracy: 57.927
+
+
+
+Epoch 11/100
+loss: 0.457, accuracy: 83.920
+val_loss: 1.067, val_accuracy: 61.585
+
+
+
+Epoch 12/100
+loss: 0.404, accuracy: 85.960
+val_loss: 1.186, val_accuracy: 59.146
+
+
+
+Epoch 13/100
+loss: 0.381, accuracy: 86.760
+val_loss: 1.063, val_accuracy: 62.805
+
+
+
+Epoch 14/100
+loss: 0.329, accuracy: 88.700
+val_loss: 0.982, val_accuracy: 59.146
+
+
+
+Epoch 15/100
+loss: 0.307, accuracy: 88.900
+val_loss: 1.039, val_accuracy: 62.195
+
+
+
+Epoch 16/100
+loss: 0.278, accuracy: 90.440
+val_loss: 1.171, val_accuracy: 58.537
+
+
+
+Epoch 17/100
+loss: 0.281, accuracy: 90.480
+val_loss: 1.308, val_accuracy: 49.390
+
+
+
+Epoch 18/100
+loss: 0.245, accuracy: 91.720
+val_loss: 1.101, val_accuracy: 56.098
+
+
+
+Epoch 19/100
+loss: 0.243, accuracy: 91.900
+val_loss: 1.121, val_accuracy: 54.878
+
+
+
+Epoch 20/100
+loss: 0.215, accuracy: 92.900
+val_loss: 1.131, val_accuracy: 57.317
+
+
+
+Epoch 21/100
+loss: 0.231, accuracy: 91.980
+val_loss: 1.148, val_accuracy: 54.268
+
+
+
+Epoch 22/100
+loss: 0.195, accuracy: 93.320
+val_loss: 1.401, val_accuracy: 51.220
+
+
+
+Epoch 23/100
+loss: 0.192, accuracy: 93.360
+val_loss: 1.256, val_accuracy: 55.488
+
+
+
+Epoch 24/100
+loss: 0.185, accuracy: 94.100
+val_loss: 1.250, val_accuracy: 55.488
+
+
+
+Epoch 25/100
+loss: 0.173, accuracy: 94.240
+val_loss: 1.240, val_accuracy: 59.756
+
+
+
+Epoch 26/100
+loss: 0.181, accuracy: 93.740
+val_loss: 1.263, val_accuracy: 55.488
+
+
+
+Epoch 27/100
+loss: 0.166, accuracy: 94.480
+val_loss: 1.137, val_accuracy: 60.366
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.45      0.30      0.36        30
+           1       0.67      0.56      0.61        68
+           2       0.35      0.36      0.36        22
+           3       0.33      0.33      0.33        21
+           4       0.67      0.73      0.70       196
+
+    accuracy                           0.61       337
+   macro avg       0.49      0.46      0.47       337
+weighted avg       0.61      0.61      0.61       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment2-data_d1_20_d2_60_r0.4
+Epoch 1/100
+loss: 2.305, accuracy: 34.600
+val_loss: 1.247, val_accuracy: 53.049
+
+
+
+Epoch 2/100
+loss: 1.184, accuracy: 53.060
+val_loss: 1.061, val_accuracy: 55.488
+
+
+
+Epoch 3/100
+loss: 0.939, accuracy: 64.880
+val_loss: 1.050, val_accuracy: 56.098
+
+
+
+Epoch 4/100
+loss: 0.728, accuracy: 73.200
+val_loss: 1.073, val_accuracy: 54.878
+
+
+
+Epoch 5/100
+loss: 0.587, accuracy: 79.240
+val_loss: 1.082, val_accuracy: 54.878
+
+
+
+Epoch 6/100
+loss: 0.463, accuracy: 83.900
+val_loss: 1.025, val_accuracy: 63.415
+
+
+
+Epoch 7/100
+loss: 0.355, accuracy: 88.120
+val_loss: 1.271, val_accuracy: 50.000
+
+
+
+Epoch 8/100
+loss: 0.329, accuracy: 88.840
+val_loss: 1.222, val_accuracy: 56.098
+
+
+
+Epoch 9/100
+loss: 0.282, accuracy: 90.760
+val_loss: 1.196, val_accuracy: 56.098
+
+
+
+Epoch 10/100
+loss: 0.240, accuracy: 92.060
+val_loss: 1.189, val_accuracy: 56.707
+
+
+
+Epoch 11/100
+loss: 0.208, accuracy: 93.060
+val_loss: 1.421, val_accuracy: 51.220
+
+
+
+Epoch 12/100
+loss: 0.198, accuracy: 93.420
+val_loss: 1.795, val_accuracy: 45.122
+
+
+
+Epoch 13/100
+loss: 0.173, accuracy: 94.480
+val_loss: 1.328, val_accuracy: 54.268
+
+
+
+Epoch 14/100
+loss: 0.166, accuracy: 94.560
+val_loss: 1.298, val_accuracy: 57.927
+
+
+
+Epoch 15/100
+loss: 0.151, accuracy: 94.940
+val_loss: 1.505, val_accuracy: 54.878
+
+
+
+Epoch 16/100
+loss: 0.148, accuracy: 95.560
+val_loss: 1.295, val_accuracy: 54.878
+
+
+
+Epoch 17/100
+loss: 0.135, accuracy: 95.500
+val_loss: 1.335, val_accuracy: 64.024
+
+
+
+Epoch 18/100
+loss: 0.124, accuracy: 96.180
+val_loss: 1.231, val_accuracy: 58.537
+
+
+
+Epoch 19/100
+loss: 0.123, accuracy: 96.200
+val_loss: 1.382, val_accuracy: 59.756
+
+
+
+Epoch 20/100
+loss: 0.098, accuracy: 97.080
+val_loss: 1.452, val_accuracy: 60.976
+
+
+
+Epoch 21/100
+loss: 0.123, accuracy: 95.980
+val_loss: 1.445, val_accuracy: 59.756
+
+
+
+Epoch 22/100
+loss: 0.095, accuracy: 97.080
+val_loss: 1.779, val_accuracy: 50.000
+
+
+
+Epoch 23/100
+loss: 0.099, accuracy: 96.780
+val_loss: 1.528, val_accuracy: 59.146
+
+
+
+Epoch 24/100
+loss: 0.088, accuracy: 97.520
+val_loss: 1.395, val_accuracy: 59.146
+
+
+
+Epoch 25/100
+loss: 0.099, accuracy: 96.580
+val_loss: 1.581, val_accuracy: 59.146
+
+
+
+Epoch 26/100
+loss: 0.083, accuracy: 97.300
+val_loss: 1.516, val_accuracy: 54.878
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.35      0.40      0.38        30
+           1       0.54      0.63      0.58        68
+           2       0.35      0.32      0.33        22
+           3       0.37      0.33      0.35        21
+           4       0.71      0.67      0.69       196
+
+    accuracy                           0.59       337
+   macro avg       0.46      0.47      0.47       337
+weighted avg       0.60      0.59      0.60       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment8-data_d1_20_d2_70_r0.7
+Epoch 1/100
+loss: 2.058, accuracy: 48.180
+val_loss: 1.479, val_accuracy: 32.317
+
+
+
+Epoch 2/100
+loss: 0.871, accuracy: 67.360
+val_loss: 1.519, val_accuracy: 41.463
+
+
+
+Epoch 3/100
+loss: 0.632, accuracy: 76.900
+val_loss: 1.390, val_accuracy: 44.512
+
+
+
+Epoch 4/100
+loss: 0.455, accuracy: 84.760
+val_loss: 1.528, val_accuracy: 48.171
+
+
+
+Epoch 5/100
+loss: 0.347, accuracy: 88.540
+val_loss: 1.396, val_accuracy: 52.439
+
+
+
+Epoch 6/100
+loss: 0.288, accuracy: 90.260
+val_loss: 1.471, val_accuracy: 45.732
+
+
+
+Epoch 7/100
+loss: 0.252, accuracy: 91.780
+val_loss: 1.540, val_accuracy: 47.561
+
+
+
+Epoch 8/100
+loss: 0.192, accuracy: 93.880
+val_loss: 1.556, val_accuracy: 58.537
+
+
+
+Epoch 9/100
+loss: 0.199, accuracy: 93.640
+val_loss: 1.429, val_accuracy: 55.488
+
+
+
+Epoch 10/100
+loss: 0.169, accuracy: 94.600
+val_loss: 1.441, val_accuracy: 59.146
+
+
+
+Epoch 11/100
+loss: 0.169, accuracy: 94.900
+val_loss: 1.447, val_accuracy: 54.878
+
+
+
+Epoch 12/100
+loss: 0.129, accuracy: 96.160
+val_loss: 1.468, val_accuracy: 57.927
+
+
+
+Epoch 13/100
+loss: 0.126, accuracy: 96.000
+val_loss: 1.481, val_accuracy: 51.829
+
+
+
+Epoch 14/100
+loss: 0.116, accuracy: 96.600
+val_loss: 1.618, val_accuracy: 55.488
+
+
+
+Epoch 15/100
+loss: 0.102, accuracy: 97.080
+val_loss: 1.529, val_accuracy: 55.488
+
+
+
+Epoch 16/100
+loss: 0.096, accuracy: 97.000
+val_loss: 1.741, val_accuracy: 53.659
+
+
+
+Epoch 17/100
+loss: 0.104, accuracy: 96.840
+val_loss: 1.649, val_accuracy: 52.439
+
+
+
+Epoch 18/100
+loss: 0.082, accuracy: 97.640
+val_loss: 1.494, val_accuracy: 60.366
+
+
+
+Epoch 19/100
+loss: 0.080, accuracy: 97.560
+val_loss: 1.492, val_accuracy: 60.366
+
+
+
+Epoch 20/100
+loss: 0.079, accuracy: 97.760
+val_loss: 1.584, val_accuracy: 62.195
+
+
+
+Epoch 21/100
+loss: 0.094, accuracy: 97.040
+val_loss: 1.597, val_accuracy: 54.268
+
+
+
+Epoch 22/100
+loss: 0.042, accuracy: 98.820
+val_loss: 1.716, val_accuracy: 58.537
+
+
+
+Epoch 23/100
+loss: 0.077, accuracy: 97.680
+val_loss: 1.629, val_accuracy: 59.756
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.35      0.20      0.26        30
+           1       0.53      0.71      0.61        68
+           2       0.50      0.32      0.39        22
+           3       0.47      0.38      0.42        21
+           4       0.70      0.71      0.71       196
+
+    accuracy                           0.62       337
+   macro avg       0.51      0.46      0.48       337
+weighted avg       0.61      0.62      0.61       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment10-data_d1_10_d2_70_r0.9
+Epoch 1/100
+loss: 2.274, accuracy: 35.340
+val_loss: 1.316, val_accuracy: 44.512
+
+
+
+Epoch 2/100
+loss: 1.225, accuracy: 51.280
+val_loss: 1.208, val_accuracy: 46.951
+
+
+
+Epoch 3/100
+loss: 1.012, accuracy: 60.800
+val_loss: 1.078, val_accuracy: 53.659
+
+
+
+Epoch 4/100
+loss: 0.820, accuracy: 69.360
+val_loss: 1.232, val_accuracy: 47.561
+
+
+
+Epoch 5/100
+loss: 0.668, accuracy: 75.760
+val_loss: 1.107, val_accuracy: 56.098
+
+
+
+Epoch 6/100
+loss: 0.562, accuracy: 80.000
+val_loss: 1.230, val_accuracy: 51.220
+
+
+
+Epoch 7/100
+loss: 0.456, accuracy: 84.420
+val_loss: 1.277, val_accuracy: 54.268
+
+
+
+Epoch 8/100
+loss: 0.408, accuracy: 85.200
+val_loss: 1.245, val_accuracy: 53.659
+
+
+
+Epoch 9/100
+loss: 0.331, accuracy: 88.580
+val_loss: 1.439, val_accuracy: 48.171
+
+
+
+Epoch 10/100
+loss: 0.294, accuracy: 90.200
+val_loss: 1.292, val_accuracy: 52.439
+
+
+
+Epoch 11/100
+loss: 0.253, accuracy: 91.580
+val_loss: 1.326, val_accuracy: 58.537
+
+
+
+Epoch 12/100
+loss: 0.242, accuracy: 91.840
+val_loss: 1.440, val_accuracy: 51.220
+
+
+
+Epoch 13/100
+loss: 0.219, accuracy: 92.500
+val_loss: 1.267, val_accuracy: 54.878
+
+
+
+Epoch 14/100
+loss: 0.187, accuracy: 93.460
+val_loss: 1.481, val_accuracy: 56.098
+
+
+
+Epoch 15/100
+loss: 0.191, accuracy: 93.460
+val_loss: 1.389, val_accuracy: 54.878
+
+
+
+Epoch 16/100
+loss: 0.177, accuracy: 94.020
+val_loss: 1.303, val_accuracy: 59.756
+
+
+
+Epoch 17/100
+loss: 0.172, accuracy: 94.340
+val_loss: 1.394, val_accuracy: 59.146
+
+
+
+Epoch 18/100
+loss: 0.155, accuracy: 95.220
+val_loss: 1.411, val_accuracy: 59.146
+
+
+
+Epoch 19/100
+loss: 0.125, accuracy: 95.820
+val_loss: 2.168, val_accuracy: 45.732
+
+
+
+Epoch 20/100
+loss: 0.152, accuracy: 95.040
+val_loss: 1.564, val_accuracy: 55.488
+
+
+
+Epoch 21/100
+loss: 0.125, accuracy: 96.120
+val_loss: 1.352, val_accuracy: 57.927
+
+
+
+Epoch 22/100
+loss: 0.123, accuracy: 96.220
+val_loss: 1.600, val_accuracy: 49.390
+
+
+
+Epoch 23/100
+loss: 0.134, accuracy: 95.620
+val_loss: 1.433, val_accuracy: 58.537
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.27      0.20      0.23        30
+           1       0.59      0.51      0.55        68
+           2       0.35      0.27      0.31        22
+           3       0.38      0.48      0.43        21
+           4       0.66      0.72      0.69       196
+
+    accuracy                           0.59       337
+   macro avg       0.45      0.44      0.44       337
+weighted avg       0.58      0.59      0.58       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment1-data_d1_20_d2_40_r0.7
+Epoch 1/100
+loss: 2.063, accuracy: 47.940
+val_loss: 1.358, val_accuracy: 40.854
+
+
+
+Epoch 2/100
+loss: 0.849, accuracy: 68.620
+val_loss: 1.379, val_accuracy: 45.732
+
+
+
+Epoch 3/100
+loss: 0.582, accuracy: 79.700
+val_loss: 1.241, val_accuracy: 54.268
+
+
+
+Epoch 4/100
+loss: 0.438, accuracy: 85.220
+val_loss: 1.188, val_accuracy: 51.220
+
+
+
+Epoch 5/100
+loss: 0.335, accuracy: 88.380
+val_loss: 1.703, val_accuracy: 43.293
+
+
+
+Epoch 6/100
+loss: 0.266, accuracy: 91.880
+val_loss: 1.219, val_accuracy: 59.756
+
+
+
+Epoch 7/100
+loss: 0.222, accuracy: 93.080
+val_loss: 1.242, val_accuracy: 57.927
+
+
+
+Epoch 8/100
+loss: 0.186, accuracy: 94.280
+val_loss: 1.317, val_accuracy: 59.146
+
+
+
+Epoch 9/100
+loss: 0.200, accuracy: 93.820
+val_loss: 1.565, val_accuracy: 53.049
+
+
+
+Epoch 10/100
+loss: 0.151, accuracy: 95.000
+val_loss: 1.723, val_accuracy: 47.561
+
+
+
+Epoch 11/100
+loss: 0.132, accuracy: 95.980
+val_loss: 1.502, val_accuracy: 58.537
+
+
+
+Epoch 12/100
+loss: 0.132, accuracy: 96.100
+val_loss: 1.665, val_accuracy: 52.439
+
+
+
+Epoch 13/100
+loss: 0.115, accuracy: 96.580
+val_loss: 1.452, val_accuracy: 56.098
+
+
+
+Epoch 14/100
+loss: 0.118, accuracy: 96.140
+val_loss: 1.509, val_accuracy: 57.317
+
+
+
+Epoch 15/100
+loss: 0.104, accuracy: 96.760
+val_loss: 1.666, val_accuracy: 51.829
+
+
+
+Epoch 16/100
+loss: 0.100, accuracy: 96.900
+val_loss: 1.461, val_accuracy: 56.707
+
+
+
+Epoch 17/100
+loss: 0.091, accuracy: 97.480
+val_loss: 1.573, val_accuracy: 53.659
+
+
+
+Epoch 18/100
+loss: 0.104, accuracy: 96.860
+val_loss: 1.400, val_accuracy: 54.878
+
+
+
+Epoch 19/100
+loss: 0.081, accuracy: 97.480
+val_loss: 1.437, val_accuracy: 59.756
+
+
+
+Epoch 20/100
+loss: 0.072, accuracy: 97.780
+val_loss: 1.440, val_accuracy: 58.537
+
+
+
+Epoch 21/100
+loss: 0.062, accuracy: 98.300
+val_loss: 1.532, val_accuracy: 57.317
+
+
+
+Epoch 22/100
+loss: 0.082, accuracy: 97.600
+val_loss: 1.770, val_accuracy: 57.317
+
+
+
+Epoch 23/100
+loss: 0.060, accuracy: 98.260
+val_loss: 1.532, val_accuracy: 57.927
+
+
+
+Epoch 24/100
+loss: 0.056, accuracy: 98.380
+val_loss: 1.470, val_accuracy: 59.146
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.38      0.47      0.42        30
+           1       0.60      0.59      0.59        68
+           2       0.25      0.23      0.24        22
+           3       0.32      0.29      0.30        21
+           4       0.69      0.68      0.68       196
+
+    accuracy                           0.59       337
+   macro avg       0.45      0.45      0.45       337
+weighted avg       0.59      0.59      0.59       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment4-data_d1_30_d2_60_r0.9
+Epoch 1/100
+loss: 2.087, accuracy: 45.000
+val_loss: 1.285, val_accuracy: 48.171
+
+
+
+Epoch 2/100
+loss: 0.914, accuracy: 66.000
+val_loss: 1.044, val_accuracy: 55.488
+
+
+
+Epoch 3/100
+loss: 0.666, accuracy: 76.820
+val_loss: 1.039, val_accuracy: 57.317
+
+
+
+Epoch 4/100
+loss: 0.491, accuracy: 83.160
+val_loss: 1.001, val_accuracy: 60.976
+
+
+
+Epoch 5/100
+loss: 0.375, accuracy: 87.480
+val_loss: 1.095, val_accuracy: 60.366
+
+
+
+Epoch 6/100
+loss: 0.302, accuracy: 89.980
+val_loss: 1.228, val_accuracy: 57.927
+
+
+
+Epoch 7/100
+loss: 0.248, accuracy: 91.660
+val_loss: 1.198, val_accuracy: 64.634
+
+
+
+Epoch 8/100
+loss: 0.227, accuracy: 92.720
+val_loss: 1.134, val_accuracy: 62.195
+
+
+
+Epoch 9/100
+loss: 0.186, accuracy: 94.000
+val_loss: 1.180, val_accuracy: 65.854
+
+
+
+Epoch 10/100
+loss: 0.190, accuracy: 94.160
+val_loss: 1.125, val_accuracy: 64.024
+
+
+
+Epoch 11/100
+loss: 0.156, accuracy: 95.160
+val_loss: 1.041, val_accuracy: 68.902
+
+
+
+Epoch 12/100
+loss: 0.139, accuracy: 95.780
+val_loss: 1.143, val_accuracy: 70.732
+
+
+
+Epoch 13/100
+loss: 0.133, accuracy: 95.520
+val_loss: 1.157, val_accuracy: 67.683
+
+
+
+Epoch 14/100
+loss: 0.126, accuracy: 96.380
+val_loss: 1.213, val_accuracy: 61.585
+
+
+
+Epoch 15/100
+loss: 0.126, accuracy: 96.220
+val_loss: 1.225, val_accuracy: 66.463
+
+
+
+Epoch 16/100
+loss: 0.101, accuracy: 96.920
+val_loss: 1.425, val_accuracy: 62.805
+
+
+
+Epoch 17/100
+loss: 0.105, accuracy: 96.960
+val_loss: 1.294, val_accuracy: 62.195
+
+
+
+Epoch 18/100
+loss: 0.107, accuracy: 96.680
+val_loss: 1.439, val_accuracy: 62.195
+
+
+
+Epoch 19/100
+loss: 0.082, accuracy: 97.480
+val_loss: 1.504, val_accuracy: 60.976
+
+
+
+Epoch 20/100
+loss: 0.097, accuracy: 97.040
+val_loss: 1.406, val_accuracy: 59.756
+
+
+
+Epoch 21/100
+loss: 0.070, accuracy: 98.080
+val_loss: 1.172, val_accuracy: 67.073
+
+
+
+Epoch 22/100
+loss: 0.069, accuracy: 97.760
+val_loss: 1.398, val_accuracy: 61.585
+
+
+
+Epoch 23/100
+loss: 0.087, accuracy: 97.280
+val_loss: 1.312, val_accuracy: 61.585
+
+
+
+Epoch 24/100
+loss: 0.073, accuracy: 97.860
+val_loss: 1.858, val_accuracy: 60.366
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.21      0.13      0.16        30
+           1       0.52      0.65      0.58        68
+           2       0.43      0.14      0.21        22
+           3       0.28      0.24      0.26        21
+           4       0.65      0.69      0.67       196
+
+    accuracy                           0.57       337
+   macro avg       0.42      0.37      0.37       337
+weighted avg       0.55      0.57      0.55       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment3-data_d1_50_d2_70_r0.8
+Epoch 1/100
+loss: 2.099, accuracy: 46.400
+val_loss: 1.409, val_accuracy: 40.854
+
+
+
+Epoch 2/100
+loss: 0.908, accuracy: 66.500
+val_loss: 1.183, val_accuracy: 53.049
+
+
+
+Epoch 3/100
+loss: 0.620, accuracy: 77.540
+val_loss: 1.259, val_accuracy: 50.000
+
+
+
+Epoch 4/100
+loss: 0.462, accuracy: 84.420
+val_loss: 1.075, val_accuracy: 58.537
+
+
+
+Epoch 5/100
+loss: 0.340, accuracy: 88.500
+val_loss: 1.131, val_accuracy: 59.146
+
+
+
+Epoch 6/100
+loss: 0.286, accuracy: 90.660
+val_loss: 1.182, val_accuracy: 60.366
+
+
+
+Epoch 7/100
+loss: 0.246, accuracy: 92.120
+val_loss: 1.222, val_accuracy: 59.146
+
+
+
+Epoch 8/100
+loss: 0.211, accuracy: 93.220
+val_loss: 1.288, val_accuracy: 59.146
+
+
+
+Epoch 9/100
+loss: 0.172, accuracy: 94.780
+val_loss: 1.442, val_accuracy: 62.195
+
+
+
+Epoch 10/100
+loss: 0.155, accuracy: 95.160
+val_loss: 1.205, val_accuracy: 60.976
+
+
+
+Epoch 11/100
+loss: 0.142, accuracy: 95.280
+val_loss: 1.341, val_accuracy: 54.268
+
+
+
+Epoch 12/100
+loss: 0.118, accuracy: 96.500
+val_loss: 1.345, val_accuracy: 60.976
+
+
+
+Epoch 13/100
+loss: 0.133, accuracy: 95.860
+val_loss: 1.180, val_accuracy: 62.195
+
+
+
+Epoch 14/100
+loss: 0.119, accuracy: 96.540
+val_loss: 1.211, val_accuracy: 58.537
+
+
+
+Epoch 15/100
+loss: 0.114, accuracy: 96.260
+val_loss: 1.286, val_accuracy: 57.927
+
+
+
+Epoch 16/100
+loss: 0.104, accuracy: 96.760
+val_loss: 1.251, val_accuracy: 59.756
+
+
+
+Epoch 17/100
+loss: 0.085, accuracy: 97.340
+val_loss: 1.182, val_accuracy: 62.195
+
+
+
+Epoch 18/100
+loss: 0.082, accuracy: 97.360
+val_loss: 1.320, val_accuracy: 63.415
+
+
+
+Epoch 19/100
+loss: 0.080, accuracy: 97.600
+val_loss: 1.372, val_accuracy: 64.024
+
+
+
+Epoch 20/100
+loss: 0.076, accuracy: 97.580
+val_loss: 1.570, val_accuracy: 61.585
+
+
+
+Epoch 21/100
+loss: 0.079, accuracy: 97.680
+val_loss: 1.414, val_accuracy: 59.146
+
+
+
+Epoch 22/100
+loss: 0.075, accuracy: 97.900
+val_loss: 1.392, val_accuracy: 64.634
+
+
+
+Epoch 23/100
+loss: 0.063, accuracy: 98.100
+val_loss: 1.272, val_accuracy: 59.756
+
+
+
+Epoch 24/100
+loss: 0.074, accuracy: 97.760
+val_loss: 1.389, val_accuracy: 59.756
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.43      0.33      0.38        30
+           1       0.56      0.51      0.53        68
+           2       0.62      0.36      0.46        22
+           3       0.42      0.24      0.30        21
+           4       0.69      0.79      0.73       196
+
+    accuracy                           0.63       337
+   macro avg       0.54      0.45      0.48       337
+weighted avg       0.62      0.63      0.62       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment7-data_d1_60_d2_70_r0.7
+Epoch 1/100
+loss: 2.241, accuracy: 36.580
+val_loss: 1.268, val_accuracy: 51.829
+
+
+
+Epoch 2/100
+loss: 1.155, accuracy: 53.760
+val_loss: 1.207, val_accuracy: 49.390
+
+
+
+Epoch 3/100
+loss: 0.912, accuracy: 64.940
+val_loss: 1.098, val_accuracy: 56.098
+
+
+
+Epoch 4/100
+loss: 0.736, accuracy: 72.920
+val_loss: 0.965, val_accuracy: 62.805
+
+
+
+Epoch 5/100
+loss: 0.576, accuracy: 79.500
+val_loss: 1.119, val_accuracy: 55.488
+
+
+
+Epoch 6/100
+loss: 0.469, accuracy: 83.960
+val_loss: 1.029, val_accuracy: 59.146
+
+
+
+Epoch 7/100
+loss: 0.388, accuracy: 86.680
+val_loss: 1.106, val_accuracy: 56.098
+
+
+
+Epoch 8/100
+loss: 0.313, accuracy: 89.460
+val_loss: 1.279, val_accuracy: 54.268
+
+
+
+Epoch 9/100
+loss: 0.287, accuracy: 90.380
+val_loss: 1.233, val_accuracy: 58.537
+
+
+
+Epoch 10/100
+loss: 0.243, accuracy: 91.700
+val_loss: 1.184, val_accuracy: 57.927
+
+
+
+Epoch 11/100
+loss: 0.236, accuracy: 92.360
+val_loss: 1.230, val_accuracy: 64.024
+
+
+
+Epoch 12/100
+loss: 0.216, accuracy: 92.920
+val_loss: 1.266, val_accuracy: 60.366
+
+
+
+Epoch 13/100
+loss: 0.175, accuracy: 94.280
+val_loss: 1.403, val_accuracy: 58.537
+
+
+
+Epoch 14/100
+loss: 0.180, accuracy: 94.400
+val_loss: 1.092, val_accuracy: 64.634
+
+
+
+Epoch 15/100
+loss: 0.157, accuracy: 95.100
+val_loss: 1.336, val_accuracy: 56.098
+
+
+
+Epoch 16/100
+loss: 0.142, accuracy: 95.500
+val_loss: 1.274, val_accuracy: 60.366
+
+
+
+Epoch 17/100
+loss: 0.150, accuracy: 95.020
+val_loss: 1.198, val_accuracy: 55.488
+
+
+
+Epoch 18/100
+loss: 0.118, accuracy: 96.320
+val_loss: 1.560, val_accuracy: 57.927
+
+
+
+Epoch 19/100
+loss: 0.114, accuracy: 96.500
+val_loss: 1.352, val_accuracy: 60.976
+
+
+
+Epoch 20/100
+loss: 0.112, accuracy: 96.400
+val_loss: 1.389, val_accuracy: 54.878
+
+
+
+Epoch 21/100
+loss: 0.109, accuracy: 96.780
+val_loss: 1.316, val_accuracy: 57.927
+
+
+
+Epoch 22/100
+loss: 0.094, accuracy: 97.060
+val_loss: 1.725, val_accuracy: 55.488
+
+
+
+Epoch 23/100
+loss: 0.123, accuracy: 96.140
+val_loss: 1.559, val_accuracy: 54.268
+
+
+
+Epoch 24/100
+loss: 0.078, accuracy: 97.620
+val_loss: 1.403, val_accuracy: 60.366
+Stop due Early stopping
+
+              precision    recall  f1-score   support
+
+           0       0.36      0.30      0.33        30
+           1       0.65      0.69      0.67        68
+           2       0.47      0.32      0.38        22
+           3       0.36      0.24      0.29        21
+           4       0.70      0.76      0.73       196
+
+    accuracy                           0.64       337
+   macro avg       0.51      0.46      0.48       337
+weighted avg       0.62      0.64      0.63       337
+
+save /home/DIINF/mcoronado/SCIAN_SVM/SVM_SCIAN/BetterResults/Gridmask/experiment6-data_d1_40_d2_50_r0.7

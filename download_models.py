@@ -23,8 +23,8 @@ if __name__ == "__main__":
     for i in range(n_experiments):
         file_id = files_ids[i]
         experiment_path = main_path+'experiments/experiment'+str(i+1)+'/resnet34.pth'
-        #os.remove(experiment_path)
+        os.remove(experiment_path)
         #gdown.download('https://drive.google.com/uc?id='+file_id, experiment_path, quiet=False)
     
-    gdown.download('https://drive.google.com/uc?id='+better_id, main_path+'/BetterResults/results.zip', quiet=False)
-    shutil.unpack_archive( main_path+'/BetterResults/results.zip', main_path+'/BetterResults/')
+    #gdown.download('https://drive.google.com/uc?id='+better_id, main_path+'/BetterResults/results.zip', quiet=False)
+    #shutil.unpack_archive( main_path+'/BetterResults/results.zip', main_path+'/BetterResults/')

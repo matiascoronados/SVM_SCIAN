@@ -13,6 +13,9 @@ from sklearn.svm import SVC as SVM
 from sklearn.svm import *
 from sklearn.metrics import classification_report
 from argparse import ArgumentParser
+torch.multiprocessing.set_sharing_strategy('file_system')
+
+torch.cuda.set_device(1)
 
 def load_data( dataset_path, batch_size, image_dimention ):
     
